@@ -1,0 +1,19 @@
+Package: BSgenome.Dmelanogaster.ENSEMBL.dm6
+Title: Full genome sequences for Drosophila melanogaster (ENSEMBL version
+dm6)
+Description: Full genome sequences for Drosophila melanogaster (Fly) as provided by ENSEMBL (dm6, Aug. 2014) and stored in Biostrings objects.
+Version: 1.0.0
+Author: The Bioconductor Dev Team
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Depends: BSgenome (>= 1.40.1)
+Imports: BSgenome
+Suggests: GenomicFeatures
+License: Artistic-2.0
+organism: Drosophila melanogaster
+common_name: Fly
+provider: ENSEMBL
+provider_version: dm6
+release_date: Aug. 2014
+release_name: BDGP Release 6 + ISO1 MT
+source_url: ftp://ftp.ensembl.org/pub/release-79/fasta/drosophila_melanogaster/dna/
+biocViews: AnnotationData, Genetics, BSgenome, Drosophila_melanogaster
