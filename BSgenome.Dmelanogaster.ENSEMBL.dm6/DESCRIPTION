@@ -4,7 +4,7 @@ Description: Full genome sequences for Drosophila melanogaster (Fly) as provided
 Version: 1.0.0
 Author: Vivek Bhardwaj
 Maintainer: Vivek Bhardwaj <bhardwaj@ie-freiburg.mpg.de>
-Depends: BSgenome (>= 1.40.1)
+Depends: BSgenome (>= 1.38.0)
 Imports: BSgenome
 Suggests: GenomicFeatures
 License: Artistic-2.0
